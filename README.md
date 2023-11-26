@@ -1,5 +1,11 @@
 # natsukuru-akikuru.patch
 夏日云幽幽（なつくもゆるる）、秋夜梦莹莹（あきゆめくくる）的机器翻译补丁
+
+夏日云幽幽（以下简称夏滚滚）的补丁下载地址：下面网址里的patch.xp3和xp3filter.tjs（仅安卓版本需要）
+https://github.com/Hor1z0nLooter/natsukuru-akikuru.patch/tree/main/natsukuru
+秋夜梦莹莹（以下简称秋滚滚）的补丁下载地址：下面网址里的patch.xp3
+https://github.com/Hor1z0nLooter/natsukuru-akikuru.patch/tree/main/akikuru
+
 夏滚滚和秋滚滚的机器翻译版本，使用GalTransl（https://github.com/XD2333/GalTransl）工具进行翻译，使用gpt3.5版本，第三方的api。
 patch.xp3放入游戏根目录即可，pc平台需要转区运行否则立绘无法显示。安卓平台使用Kirikiroid2 v1.3.9可以正常运行，其中夏滚滚需要放入xp3filter.tjs
 
